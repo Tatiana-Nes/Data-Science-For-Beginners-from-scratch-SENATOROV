@@ -11,7 +11,6 @@
 - Дополнительные команды.
 """
 
-# + [markdown] magic_args="[markdown]"
 #
 #
 #
